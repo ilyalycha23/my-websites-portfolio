@@ -59,6 +59,6 @@
 ## 📧 Контакты
 
 По всем вопросам и предложениям вы можете написать на почту:  
-[![Email](https://img.shields.io/badge/Email-ilyalycha23@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ilyalav2323@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ilyalav2323@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ilyalav2323@gmail.com)
 
 *⚠️ Примечание: В данном репозитории представлены скриншоты и описания проектов. Исходный код тем WordPress может быть предоставлен по запросу.*
